@@ -1,0 +1,23 @@
+a=int(input('enter the first number '))
+
+b=int(input('enter the second number'))
+
+if a>b:
+
+    print('the biggest number is:',a)
+
+else:
+
+     print('the biggest number is:',b)
+     
+output:
+
+enter the first number 
+
+44
+
+enter the second number
+
+23
+
+the biggest number is: 44
